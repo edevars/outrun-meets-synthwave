@@ -1,6 +1,12 @@
 # Outrun meets Synthwave Theme for VS Code
 This theme is inspired in [Synthwave '84 ](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) and [Outrun](https://marketplace.visualstudio.com/items?itemName=samrapdev.outrun).
 
+
+<center> 
+<img src="./screenshots/theme.png" alt="theme"
+	title="VS Code Theme" width="800" />
+</center>
+
 ## Installation
 
 To enable the gradients in active tabs you need to follow the next steps:
