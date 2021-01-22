@@ -3,7 +3,7 @@ This theme is inspired in [Synthwave '84 ](https://marketplace.visualstudio.com/
 
 
 <center> 
-<img src="./screenshots/theme.png" alt="theme"
+<img src="https://i.imgur.com/6OYcVPL.png" alt="theme"
 	title="VS Code Theme" width="800" />
 </center>
 
