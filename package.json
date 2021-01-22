@@ -1,0 +1,34 @@
+{
+  "name": "outrun-meets-synthwave",
+  "displayName": "Outrun meets Synthwave",
+  "description": "A theme inspired in Outrun and Synthwave '84",
+  "version": "0.0.1",
+  "publisher": "codevars",
+  "repository": "https://github.com/samrap/outrun-theme-vscode",
+  "homepage": "https://outruntheme.com",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#0c0a20",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Outrun Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/outrun-night-color-theme.json"
+      },
+      {
+        "label": "Outrun Electric",
+        "uiTheme": "vs-dark",
+        "path": "./themes/outrun-electric-color-theme.json"
+      }
+    ]
+  }
+}
